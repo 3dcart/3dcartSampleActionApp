@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_3dcartSampleActionApp</RootNamespace>
+    <UserSecretsId>0ad61c17-845f-4655-819a-e1f96e19e92a</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
